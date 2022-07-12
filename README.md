@@ -1,5 +1,5 @@
-# sql-challenge
-SQL Homework - Employee Database: A Mystery in Two Parts
+# Using SQL to Analyze Employee Data
+Employee Database: A Mystery in Two Parts
 
 
 Background
